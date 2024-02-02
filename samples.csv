@@ -1,3 +1,5 @@
 sample,fastq_1,fastq_2
-F1-16s,$projectDir/mR369-L1-P03-ATATGAGACG-AGCTACTATA-READ1-Sequences.txt.gz,$projectDir/mR369-L1-P03-ATATGAGACG-AGCTACTATA-READ2-Sequences.txt.gz
-
+P36,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P36_ITS_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P36_ITS_L001_R2_001.fastq.gz
+P39,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P39_ITS_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P39_ITS_L001_R2_001.fastq.gz
+P45,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P45_ITS_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P45_ITS_L001_R2_001.fastq.gz
+P47,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P47_ITS_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P47_ITS_L001_R2_001.fastq.gz
